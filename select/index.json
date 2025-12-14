@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ガラスのブルース",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-14T00:50:44.624339Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ガラスのブルース",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_ガラスのブルース_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ガラスのブルース (28 years round)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/02_ガラスのブルース_(28_years_round)_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ガラスのブルース",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_ガラスのブルース_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ガラスのブルース",
+      "artist": "Bump Of Chicken",
+      "has_synced": true,
+      "path": "select/04_ガラスのブルース_Bump_Of_Chicken.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガラスのブルース",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_ガラスのブルース_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
